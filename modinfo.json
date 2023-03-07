@@ -1,0 +1,10 @@
+{
+  "type": "code",
+  "modid": "geothermalinsanity",
+  "name": "Geothermal Insanity",
+  "authors": [ "BotenRedWolf" ],
+  "description": "Geothermal heating mechanics.",
+  "version": "1.2.0",
+  "dependencies": {},
+  "website": "https://mods.vintagestory.at/show/mod/337"
+}
